@@ -1,0 +1,6 @@
+@MiniChallenge2_4MVC_HostAddress = http://localhost:5207
+
+GET {{MiniChallenge2_4MVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
